@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="categorias_array">
+        <item>Todos</item>
+        <item>Desayuno</item>
+        <item>Comida</item>
+        <item>Cena</item>
+    </array>
+    <array name="sexo_array">
+        <item>Hombre</item>
+        <item>Mujer</item>
+        <item>Sin especificar</item>
+    </array>
+</resources>

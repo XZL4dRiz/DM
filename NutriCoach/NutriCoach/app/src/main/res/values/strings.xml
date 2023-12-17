@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">NutriCoach</string>
+
+    //activity_formulario
+    <string name="textoFormulario">Rellena el formulario con tus datos:</string>
+    <string name="textViewSexo">Sexo:</string>
+    <string name="textViewEdad">Edad:</string>
+    <string name="textViewAltura">Altura:</string>
+    <string name="textViewPeso">Peso:</string>
+    <string name="editTextSexo">Ingresa el sexo</string>
+    <string name="editTextEdad">Ingresa la edad</string>
+    <string name="editTextAltura">Ingresa la altura</string>
+    <string name="editTextPeso">Ingresa el peso</string>
+    <string name="btnContinuar">Continuar</string>
+
+    //activity_inicio
+    <string name="User">User</string>
+    <string name="Password">Password</string>
+    <string name="IniciarSesion">Iniciar Sesion</string>
+    <string name="textInicio">¡¡¡¡ Es hora de empezar el cambio !!!!</string>
+    <string name="textInicio2">con la ayuda de........</string>
+    <string name="textInicio3">NutriCoach </string>
+
+    //activity_main
+    <string name="RecetasSeleccionadas">Recetas Seleccionadas:</string>
+    <string name="EjerciciosSeleccionadas">Ejercicios Seleccionados:</string>ç
+
+    //activity_nuevo_ejercicio
+    <string name="AñadirNombre">Nombre ejercicio:</string>
+    <string name="AñadirDescripcion">Descripcion ejercicio:</string>
+    <string name="AñadirTiempo">Duracion del ejercicio (en minutos):</string>
+
+    //activity_perfil
+    <string name="healtyUser">Healty User</string>
+    <string name="email">healtyUser@gmail.com</string>
+    <string name="editProfileButton">Editar perfil</string>
+    <string name="sexo">Sexo:</string>
+    <string name="altura">Altura:</string>
+    <string name="edad">Edad:</string>
+    <string name="peso">Peso:</string>
+
+    //activity_principal_ejercicios
+    <string name="AñadirEjercicio">Añadir Ejercicio</string>
+
+    //activity_ver
+    <string name="LabelIngredientes">Ingredientes:</string>
+
+    //activity_ver y activity_ver_ejercicios
+    <string name="AgregarInicio">Agregar a Inicio</string>
+    <string name="EliminarInicio">Eliminar de Inicio</string>
+
+    //activity_ver_ejercicios
+    <string name="EliminardeBD">Eliminar de la Base de Datos</string>
+
+    //activity_menu
+    <string name="Perfil">Perfil</string>
+    <string name="Recetas">Recetas</string>
+    <string name="Ejercicios">Ejercicios</string>
+    <string name="CerrarSesion">Cerrar Sesión</string>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976683669060",
+    "project_id": "proyectodm-1e5ff",
+    "storage_bucket": "proyectodm-1e5ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976683669060:android:dc755330d2539c9ff20e11",
+        "android_client_info": {
+          "package_name": "com.example.proyectodm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnmk-IFpVcYPaYrNaJ0KJcecftAkA1es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProyectoDM" parent="Theme.Material3.DayNight">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="colorPrimary">@color/colorLightGreen</item>
+        <item name="colorPrimaryDark">@color/colorDarkGreen</item>
+        <item name="android:colorAccent">@color/colorDarkGreen</item>
+    </style>
+
+    <style name="Theme.ProyectoDM" parent="Base.Theme.ProyectoDM" />
+</resources>
